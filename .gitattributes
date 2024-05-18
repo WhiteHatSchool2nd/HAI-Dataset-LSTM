@@ -1,0 +1,4 @@
+test1/test1.csv filter=lfs diff=lfs merge=lfs -text
+test1/test2.csv filter=lfs diff=lfs merge=lfs -text
+train/train1.csv filter=lfs diff=lfs merge=lfs -text
+train/train2.csv filter=lfs diff=lfs merge=lfs -text
